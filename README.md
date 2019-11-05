@@ -2,9 +2,11 @@
 
 St Pete .NET - MX-ing it up Holiday Social
 
+Register at https://www.meetup.com/St-Pete-NET-Meetup/ .
+
 St Pete .NET has a buch of Arduino based MX Chip IoT DevKits.  So why not some fun labs!  Directional finding using the magnometer, pulling gifs with Azure IoT hub, and some optional exercises if you work ahead.  Loaner boards will be available for the day, but if a large number of people show up you may have to share.  If you wish to procure your own you can purchase the Azure IoT DevKit with the MX chip from the Amazon link below.   Expect lectures on various topics and a good bit of time to experiment on your own.  Wrap the day with a Saturday social in St Pete!
 
-Link to MXChip IoT DevKit Model # AZ3166  - https://amzn.to/2WLfhaP
+Link to MXChip IoT DevKit Model # AZ3166  - https://amzn.to/2WLfhaP .
 
 [<img src="chip-screenshot.gif">](https://amzn.to/2WLfhaP)
 
@@ -24,22 +26,23 @@ Lunch happens sometime during the day.  What it will be and will it be free is t
 
 ## MX CHIP DIRECTION HANDS ON LAB
 
-Configure your MX chip and push code to it showing the current orientation of the device.  Art Garcia has promised some really cool descriptions of this session here.  He has to buy beer if he lets us down.
+Configure your MX chip and push code that shows the current orientation of the device.  Magnetometer and OLE LED screen special! Art Garcia has promised some really cool descriptions of this session here.  He has to buy beer if he lets us down.
 
-Lab is here - https://github.com/artgarcia/mxchip_direction
+Lab is here - https://github.com/artgarcia/mxchip_direction .
 
 ## MX CHIP AZURE IOT GIF LAB
 
-Configure your MX Chip enabled Arduino to pull gifs down from Azure IoT hub.  During this lab you will create an IoT Hub, configure your MX Arduino, push code to the arduino, connect it to the Azure IoT Hub, and pull down some gifs to the OLED screen on the Arduino. 
+Configure your MX Chip enabled Arduino to pull gifs down from Azure IoT hub.  During this lab you will create an IoT Hub, configure your MX Arduino, push code to the arduino, connect it to the Azure IoT Hub, and pull down some gifs to the OLED screen on the Arduino.
+
 Lab is here - https://github.com/noopkat/mxchip-gifs/blob/master/README.md
 
 ## WHAT YOU NEED TO DO BEFORE YOU SHOW UP
 
 Those who haven't done this before arrival will be placed on the special naughty table to do the pre-work.
 
-Laptop with available USB port
-Azure account - Free starter account here - https://azure.microsoft.com/en-us/free/
-Software installed - See software requirements at this link .  NodeJS, Arduino IDE, Screen/Putty, ST-Link/V2, VS  Code with Arduino and Azure IoT extensions.  Full list of software and links at https://github.com/noopkat/mxchip-gifs/blob/master/README.md#how-do-i-run-this-example-application
+* Laptop with available USB port
+* Azure account - Free starter account here - https://azure.microsoft.com/en-us/free/
+* Software installed - See software requirements at this link .  NodeJS, Arduino IDE, Screen/Putty, ST-Link/V2, VS  Code with Arduino and Azure IoT extensions.  Full list of software and links at https://github.com/noopkat/mxchip-gifs/blob/master/README.md#how-do-i-run-this-example-application
 
 ## BORED
 
