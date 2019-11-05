@@ -6,7 +6,10 @@ Register at https://www.meetup.com/St-Pete-NET-Meetup/ .
 
 St Pete .NET has a buch of Arduino based MX Chip IoT DevKits.  So why not some fun labs!  Directional finding using the magnometer, pulling gifs with Azure IoT hub, and some optional exercises if you work ahead.  Loaner boards will be available for the day, but if a large number of people show up you may have to share.  If you wish to procure your own you can purchase the Azure IoT DevKit with the MX chip from the Amazon link below.   Expect lectures on various topics and a good bit of time to experiment on your own.  Wrap the day with a Saturday social in St Pete!
 
-Link to MXChip IoT DevKit Model # AZ3166  - https://amzn.to/2WLfhaP .
+Link to MXChip IoT DevKit Model # AZ3166
+
+* Seed - $39 - https://www.seeedstudio.com/AZ3166-IOT-Developer-Kit.html
+* Amazon - $55 - https://amzn.to/2WLfhaP 
 
 [<img src="chip-screenshot.gif">](https://amzn.to/2WLfhaP)
 
@@ -42,6 +45,8 @@ Those who haven't done this before arrival will be placed on the special naughty
 
 * Laptop with available USB port
 * Azure account - Free starter account here - https://azure.microsoft.com/en-us/free/
+* If you are using your MSDN account for Azure -see here for activating the MSDN Professional/Enterprise Azure benefits - 
+https://blogs.msdn.microsoft.com/dmx/2017/03/22/english-step-by-step-activate-your-free-azure-monthly-credit-for-your-msdn-license/
 * Software installed - See software requirements at this link .  NodeJS, Arduino IDE, Screen/Putty, ST-Link/V2, VS  Code with Arduino and Azure IoT extensions.  Full list of software and links at https://github.com/noopkat/mxchip-gifs/blob/master/README.md#how-do-i-run-this-example-application
 
 ## BORED
