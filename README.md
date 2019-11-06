@@ -29,7 +29,7 @@ Lunch happens sometime during the day.  What it will be and will it be free is t
 
 ## MX CHIP DIRECTION HANDS ON LAB
 
-Configure your MX chip and push code that shows the current orientation of the device.  Magnetometer and OLE LED screen special! Art Garcia has promised some really cool descriptions of this session here.  He has to buy beer if he lets us down.
+This application is a simple example of using the magnetometer built into the MX CHip. By adding the current magnetic deviation for your location on the earht, we can calculate direction. This application will calculate direction in real time. By setting the deviation in the code it will display the direction you are pointing the MXChip.
 
 Lab is here - https://github.com/artgarcia/mxchip_direction .
 
